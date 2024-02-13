@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "python.analysis.typeCheckingMode": "strict",
+  "vim.smartRelativeLine": true
+}
